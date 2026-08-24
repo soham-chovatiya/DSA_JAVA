@@ -12,8 +12,8 @@ class Solution {
         for (Map.Entry<Integer, Integer> value : map.entrySet()) {
             if (value.getValue() == 1) {
                 return value.getKey();
+            }
         }
-}
         return -1;
     }
 }
