@@ -4,43 +4,45 @@ class Solution {
         int low = 0;
         int high = 0;
 
-        // Find search range
-        for (int weight : weights) {
-            low = Math.max(low, weight);
+        for(int weight : weights){
+
+            low = Math.max(weight, low);
             high += weight;
+
         }
 
-        // Binary Search
-        while (low <= high) {
+        while(low <= high){
+            
+            int capacity = (low + high) / 2;
 
-            int capacity = low + (high - low) / 2;
-
-            if (canShip(weights, days, capacity)) {
+            if(isShiping(weights, days, capacity)){
                 high = capacity - 1;
-            } else {
-
+            }else{
                 low = capacity + 1;
             }
+
         }
 
         return low;
     }
 
-    private boolean canShip(int[] weights, int days, int capacity) {
+    public boolean isShiping(int[] weights, int days, int capacity){
 
         int currentWeight = 0;
         int requiredDays = 1;
 
-        for (int weight : weights) {
+        for(int weight : weights){
 
-            if (currentWeight + weight <= capacity) {
+            if(currentWeight + weight <= capacity){
                 currentWeight += weight;
-            } else {
+            }else{
                 requiredDays++;
                 currentWeight = weight;
             }
+
         }
 
         return requiredDays <= days;
+
     }
 }
