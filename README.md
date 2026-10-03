@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/s863lye/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/s863lye/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/s863lye/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/s863lye/DSA_JAVA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/s863lye/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/s863lye/DSA_JAVA/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/s863lye/DSA_JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/s863lye/DSA_JAVA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/s863lye/DSA_JAVA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/s863lye/DSA_JAVA/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
