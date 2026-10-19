@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/s863lye/DSA_JAVA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/s863lye/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/s863lye/DSA_JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/s863lye/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/s863lye/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/s863lye/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/s863lye/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/s863lye/DSA_JAVA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/s863lye/DSA_JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/s863lye/DSA_JAVA/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/s863lye/DSA_JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/s863lye/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/s863lye/DSA_JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/s863lye/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/s863lye/DSA_JAVA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
@@ -75,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/s863lye/DSA_JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/s863lye/DSA_JAVA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/s863lye/DSA_JAVA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/s863lye/DSA_JAVA/tree/master/0229-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
