@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/s863lye/DSA_JAVA/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/s863lye/DSA_JAVA/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/s863lye/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/s863lye/DSA_JAVA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/s863lye/DSA_JAVA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
